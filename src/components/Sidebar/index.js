@@ -5,8 +5,6 @@ import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import Name1 from '../../assets/images/Name1.png';
 import Name2 from '../../assets/images/Name2.png';
-import Mazen from '../../assets/images/Mazen.png';
-import MazenName from '../../assets/images/Mazen_Ibrahim.png';
 
 const Sidebar = () => (
     <div className='nav_bar'>

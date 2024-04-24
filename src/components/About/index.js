@@ -1,5 +1,4 @@
 import './index.scss';
-import Sidebar from '../Sidebar';
 import resume from '../../assets/files/Mazen_Resume.pdf';
 import Skills from './Images';
 import Loader from 'react-loaders';

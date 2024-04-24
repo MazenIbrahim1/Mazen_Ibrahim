@@ -1,4 +1,3 @@
-import Sidebar from '../Sidebar';
 import './index.scss';
 import Loader from 'react-loaders';
 import { Link } from 'react-router-dom';
@@ -19,7 +18,7 @@ const Projects = () => {
                         </p>
                 </div>
                 <div className='project'>
-                    <a target='_blank' className='links' href='https://github.com/CSE-316-Software-Development/final-project-mazen-and-kah-shiuh'>
+                    <a target='_blank' className='links' rel="noreferrer" href='https://github.com/CSE-316-Software-Development/final-project-mazen-and-kah-shiuh'>
                         <h1>Fake StackOverflow</h1>
                     </a>
                     <p>
@@ -29,7 +28,7 @@ const Projects = () => {
                     </p>
                 </div>
                 <div className='project'>
-                    <a target='_blank' className='links' href='https://robo-rush.firebaseapp.com'>
+                    <a target='_blank' className='links' rel="noreferrer" href='https://robo-rush.firebaseapp.com'>
                         <h1>Robo-Rush</h1>
                     </a>
                     <p>
@@ -39,7 +38,7 @@ const Projects = () => {
                     </p>
                 </div>
                 <div className='project'>
-                    <a target='_blank' className='links' href='https://github.com/MazenIbrahim1/Mazens_Projects/tree/main/Calculator-Project'>
+                    <a target='_blank' className='links' rel="noreferrer" href='https://github.com/MazenIbrahim1/Mazens_Projects/tree/main/Calculator-Project'>
                         <h1>Calculator</h1>
                     </a>
                     <p>
