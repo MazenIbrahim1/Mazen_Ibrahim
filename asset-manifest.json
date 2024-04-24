@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mazen_Ibrahim_Portfolio/static/css/main.289c8c3b.css",
+    "main.js": "/Mazen_Ibrahim_Portfolio/static/js/main.f4d90ff2.js",
+    "static/js/453.b3faef14.chunk.js": "/Mazen_Ibrahim_Portfolio/static/js/453.b3faef14.chunk.js",
+    "static/media/Mazen.png": "/Mazen_Ibrahim_Portfolio/static/media/Mazen.a3cc55369515e9eb2e16.png",
+    "static/media/Mazen_Resume.pdf": "/Mazen_Ibrahim_Portfolio/static/media/Mazen_Resume.900526ef636cf211674d.pdf",
+    "static/media/Mazen_Ibrahim.png": "/Mazen_Ibrahim_Portfolio/static/media/Mazen_Ibrahim.139746efde6925ee2410.png",
+    "static/media/helvetica-neu.ttf": "/Mazen_Ibrahim_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Mazen_Ibrahim_Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/Name2.png": "/Mazen_Ibrahim_Portfolio/static/media/Name2.b22f6fdc144df2255c54.png",
+    "static/media/Name1.png": "/Mazen_Ibrahim_Portfolio/static/media/Name1.849786b47d1c4b75a38a.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/Mazen_Ibrahim_Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Mazen_Ibrahim_Portfolio/index.html",
+    "main.289c8c3b.css.map": "/Mazen_Ibrahim_Portfolio/static/css/main.289c8c3b.css.map",
+    "main.f4d90ff2.js.map": "/Mazen_Ibrahim_Portfolio/static/js/main.f4d90ff2.js.map",
+    "453.b3faef14.chunk.js.map": "/Mazen_Ibrahim_Portfolio/static/js/453.b3faef14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289c8c3b.css",
+    "static/js/main.f4d90ff2.js"
+  ]
+}
