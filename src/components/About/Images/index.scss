@@ -1,0 +1,21 @@
+.pictures {
+    width: 450px;
+    height: 100%;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+    padding: 10px;
+    right: 10%;
+}
+
+.image {
+    margin-right: 15px;
+    margin-bottom: 15px;
+    transition: transform 0.2s;
+}
+
+.image:hover {
+    transform: scale(1.2);
+}

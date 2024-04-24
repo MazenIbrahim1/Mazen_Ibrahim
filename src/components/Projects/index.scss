@@ -1,0 +1,82 @@
+.projects-page {
+    .projects-zone {
+        position: absolute;
+        transform: translateY(-50);
+        top: 10%;
+        left: 20%;
+        width: 65%;
+
+        &::before {
+            content: '<ul>';
+            font-family: 'La Belle Aurore';
+            color: yellow;
+            font-size: 18px;
+            position: absolute;
+            margin-top: -20px;
+            left: 3px;
+            opacity: 0.6;
+        }
+
+        &::after {
+            content: '</ul>';
+            font-family: 'La Belle Aurore';
+            color: yellow;
+            font-size: 18px;
+            position: absolute;
+            margin-top: 0;
+            right: 96%;
+            animation: fadeIn 1s 1.5s backwards;
+            opacity: 0.6;
+        }
+    }
+
+    h1 {
+        color: white;
+        font-size: 30px;
+        font-weight: 400;
+        font-family: 'Coolvetica';
+        padding: 0;
+        margin: 0;
+        letter-spacing: 2px;
+    }
+
+    .project {
+        border: 3mm ridge rgba(206, 124, 88, 0.6);
+        padding: 10px;
+        margin: 10px;
+        border-radius: 20px;
+        width: 100%;
+        height: 100%;
+        animation: fadeIn 1.3s 1.8s backwards;
+
+        &::before {
+            content: '<li>';
+            font-size: 18px;
+            font-family: 'La Belle Aurore';
+            color: yellow;
+            opacity: 0.6;
+        }
+
+        &::after {
+            content: '</li>';
+            font-size: 18px;
+            font-family: 'La Belle Aurore';
+            color: yellow;
+            animation: fadeIn 1.5s 2.0s backwards;
+            opacity: 0.6;
+        }
+
+        p {
+            font-family: 'Helvetica Neue';
+            font-size: 20px;
+            letter-spacing: 1px;
+            margin: 20px;
+            text-align: left;
+        }
+
+        .links {
+            text-decoration: underline white;
+            transition: transform 0.2s;
+        }
+    }
+}
