@@ -32,3 +32,13 @@
 .image:hover {
     transform: scale(1.1);
 }
+
+@media (max-width: 600px) {
+    .pictures {
+        width: 90%;
+    }
+
+    .image {
+        margin-right: 0;
+    }
+}
