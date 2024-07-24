@@ -54,9 +54,11 @@
     }
 
     .contact-form {
-        width: 100%;
         margin-top: 0px;
+        padding-top: 43%;
         display: block;
+        width: 100%;
+        position: absolute;
     
         ul {
             width: 60%;
