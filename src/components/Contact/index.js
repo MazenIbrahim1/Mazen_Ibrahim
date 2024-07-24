@@ -9,7 +9,8 @@ const Contact = () => {
     //function to send emails after submittin the form 
     const sendEmail = (e) => {
         e.preventDefault()
-    
+        
+        console.log(form.current)
         emailjs
           .sendForm('service_vroy8zr', 'template_kmq3qsa', form.current, 'Rd1gruoHdmgnm3PXO')
           .then(

@@ -28,6 +28,16 @@ const Projects = () => {
                     </p>
                 </div>
                 <div className='project'>
+                    <a target='_blank' className='links' rel="noreferrer" href='https://github.com/MazenIbrahim1/Titanic_Data_Model'>
+                        <h1>Titanic Prediction Model</h1>
+                    </a>
+                    <p>
+                        - Processed a training dataset provided by Kaggle where I cleaned the dataset by removing/imputing null variables and removing outliers using the IQR method.
+                        <br /><br />- Analyzed relationships between features using appropriate visualizations to showcase the relationship between them and deduced the most important features for training the models through the correlation analysis.
+                        <br /><br />- Built three Machine Learning models that use those features to predict who survives the Titanic on unseen data.
+                    </p>
+                </div>
+                <div className='project'>
                     <a target='_blank' className='links' rel="noreferrer" href='https://robo-rush.firebaseapp.com'>
                         <h1>Robo-Rush</h1>
                     </a>
