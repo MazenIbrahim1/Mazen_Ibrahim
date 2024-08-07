@@ -7,6 +7,15 @@ const Projects = () => {
         <>
         <div className='container projects-page'>
             <div className='projects-zone'>
+            <div className='project'>
+                    <a target='_blank' className='links' rel="noreferrer" href='https://github.com/MazenIbrahim1/pantry-tracker'>
+                        <h1>Pantry Nest</h1>
+                    </a>
+                    <p>
+                        - Designed and developed a pantry management application that allows users to keep track of pantry items by adding or removing items and updating their quantities in the Firestore database. The project also has an AI Recipe Generator using OpenAI API and an AI image classifier using Google Cloud Vision API.
+                        <br /><br />- This project elevated my proficiency in Full Stack development and aided in better understanding and implementation of the Software Development Life-Cycle.
+                    </p>
+                </div>
                 <div className='project'>
                     <Link className='links' to='/'>
                         <h1>Portfolio Website</h1>
